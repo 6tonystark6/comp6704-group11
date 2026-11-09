@@ -1,0 +1,4 @@
+algorithm,step_fraction,iterations,gradient_ratio,converged
+NAG,0.25,888,9.831532569859878e-09,True
+NAG,0.5,624,9.962604715582553e-09,True
+NAG,1.0,439,9.727442276955741e-09,True
